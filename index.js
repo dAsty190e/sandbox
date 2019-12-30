@@ -5,7 +5,8 @@ const app = express() // () means execute
 // set the port to 3000 (localhost:3000)
 const port = 3000
 
-var cat = "Basya says MEOOOOOOWWWWWWW";
+var message = "Zack loves Lesya!!!"
+var cat = "Basya says MEOOOOOOWWWWWWW and " + message;
 
 // create a path '/' and respond with content
 app.get('/', (req, res) => res.send('Hello World! yey! ' + cat))
