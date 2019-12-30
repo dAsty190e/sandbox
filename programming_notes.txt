@@ -1,6 +1,6 @@
-text editor: visual studio code
+-text editor: visual studio code
 integrated development environment: visual studio community edition
-version control system: github, git for windows
+-version control system: github, git for windows
 
 langauges: JavaScript, C#
 technology stack: web development
@@ -15,3 +15,10 @@ iteration
 
 git commands
 init, add, commit, push
+
+npm commands
+    npm init
+
+node.JS
+express.JS
+    npm install express --save
