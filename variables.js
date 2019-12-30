@@ -1,3 +1,8 @@
+// variables https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/var
+// console.log https://developer.mozilla.org/ru/docs/Web/API/Console/log
+
+
+
 var myFirstVariable = 100;
 var mySecondVariable = 99;
 
