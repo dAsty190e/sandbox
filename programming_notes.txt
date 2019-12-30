@@ -1,0 +1,17 @@
+text editor: visual studio code
+integrated development environment: visual studio community edition
+version control system: github, git for windows
+
+langauges: JavaScript, C#
+technology stack: web development
+related technologies: HTML, CSS
+frameworks: Express (JS), MVC (C#)
+
+variables
+control flow
+iteration
+
+
+
+git commands
+init, add, commit, push
