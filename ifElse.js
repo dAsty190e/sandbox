@@ -49,3 +49,11 @@ if (date == 26) {
 } else {
     console.log("false")
 }
+
+
+var name = "New Year";
+if (name == "New Year"){
+    console.log("Happy New year")
+} else {
+    console.log("not on this year")
+}

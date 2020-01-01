@@ -22,3 +22,25 @@ npm commands
 node.JS
 express.JS
     npm install express --save
+
+
+
+JavaScript
+    - variables
+    - control flow (if else conditions)
+    collections (arrays)
+    iteration (for & while loops)
+    functions
+    objects
+HTML & CSS
+    elements
+    events
+    forms
+    styling
+Node.JS & Express.JS
+    Web Server
+    Request & Response Workflow
+    Jade/Pug
+
+Advanced JavaScript
+    Collection Methods

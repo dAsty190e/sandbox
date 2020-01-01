@@ -39,3 +39,8 @@ console.log(aString);
 4 add comments to the file
 5 run the file in the command line interface (CLI)
 */
+
+var girl = "Dasha";
+var boy = "Tim";
+
+console.log(girl + " say hello to " + boy) 
