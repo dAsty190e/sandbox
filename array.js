@@ -3,6 +3,9 @@ var exampleArray = [0,1,2,3,4,5];
 // here is an array of 6 numbers, starting from zero and ending on 5
 // arrays are 0 indexed, which means the first position is 0, then 1, then 2 and so on...
 
+var exampleArray2 = [2,3,4,5]
+// here, position 0 is value 2, position 1 is value 3
+
 // arrays can also have a length of 0 and be empty
 var anEmptyArray = [];
 
