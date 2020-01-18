@@ -25,3 +25,21 @@ realine.question(question, (response) => {
     realine.close();
 });
 
+
+
+// this is the setup
+
+// https://nodejs.org/api/readline.html
+// readline allows your to ask questions and accept answers
+const rl = require('readline');
+
+// createInterface is used to setup the readline
+const realine = rl.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+realine.question(question, (response) => {
+    // questions here
+    realine.close();
+});

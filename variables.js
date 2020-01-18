@@ -6,7 +6,7 @@
 var myFirstVariable = 100;
 var mySecondVariable = 99;
 
-console.log(myFirstVariable); // 100
+console.log(myFirstVariable); // 100`
 console.log(mySecondVariable); // 99
 console.log(myFirstVariable + mySecondVariable); // 199
 // console.log(myThirdVariable); // throws an error

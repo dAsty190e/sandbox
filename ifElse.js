@@ -1,9 +1,9 @@
 // ifElse conditions, https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/if...else
 var age = 10;
 if (age > 18) {
-console.log("Hello, here is your drivers license");
+    console.log("Hello, here is your drivers license");
 } else {
-console.log("Sorry, you are too young for a drivers license");
+    console.log("Sorry, you are too young for a drivers license");
 }
 
 var cash = 10;
@@ -16,7 +16,7 @@ if (cash >= amount) {
 
 var name = "lesya";
 var person = "Zack";
-if(name == "ted") {
+if (name == "ted") {
     console.log("lesya hates to program")
     console.log("lesya hates to program")
     console.log("lesya hates to program")
@@ -52,7 +52,7 @@ if (date == 26) {
 
 
 var name = "New Year";
-if (name == "New Year"){
+if (name == "New Year") {
     console.log("Happy New year")
 } else {
     console.log("not on this year")

@@ -1,3 +1,7 @@
+to open the command line interface (CLI) it is ctrl + tilde (~)
+to execute a file, use 'node {the file name}' example: node ./variables.js
+to save with the keyboard you can use ctrl + s
+
 -text editor: visual studio code
 integrated development environment: visual studio community edition
 -version control system: github, git for windows
